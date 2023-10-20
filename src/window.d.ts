@@ -1,0 +1,31 @@
+interface Window { // todo types
+  ethereum: any;
+  BinanceChain: any;
+  tronWeb: any;
+  sollet: any;
+  coin98: any;
+  solana: any;
+  okexchain: any;
+  clover: any;
+  xfi: any;
+  clover_solana: any;
+  Slope: any;
+  solflare: any;
+  onto: any;
+  keplr: any;
+  deficonnectProvider: any;
+  bitkeep: any;
+  isBitKeep: any;
+  safeSDK: any;
+  coinbaseWalletExtension: any;
+  safepalProvider: any;
+  trustwallet: any;
+  tron: any;
+  aptos: any;
+  pontem: any;
+  martian: any;
+  tronLink: any;
+  starknet: any;
+  starknet_braavos: any;
+  starknet_argentX: any;
+}

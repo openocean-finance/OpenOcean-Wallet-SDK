@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>tronlink</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="8.26742761%" y1="4.09366846%" x2="96.0734561%" y2="100.681258%" id="linearGradient-1">
+            <stop stop-color="#6D72CC" offset="0%"></stop>
+            <stop stop-color="#565BA7" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32,16 C32,7.16343333 24.8365667,0 16,0 C7.16343333,0 0,7.16343333 0,16 C0,24.8365667 7.16343333,32 16,32 C24.8365667,32 32,24.8365667 32,16 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tronlink">
+            <path d="M32,16 C32,7.16343333 24.8365667,0 16,0 C7.16343333,0 0,7.16343333 0,16 C0,24.8365667 7.16343333,32 16,32 C24.8365667,32 32,24.8365667 32,16 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <g id="Fill-4-Clipped">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="path-1-2"></g>
+                <path d="M21.557361,21.2061098 L31.1202307,19.4783619 L20.1512087,32.8102419 L21.557361,21.2061098 Z M20.1840144,20.5561869 L18.700791,32.7971292 L10.6966428,12.706679 L20.1840144,20.5561869 Z M20.8322645,19.2241757 L11.7290121,11.6924004 L26.6068591,14.4236678 L20.8322645,19.2241757 Z M28.1869268,14.9821375 L31.3441411,17.976557 L22.7080331,19.5367528 L28.1869268,14.9821375 Z M28.5186916,13.3123322 L7.87692308,9.52307692 L18.7407871,36.7913696 L33.8769231,18.3943725 L28.5186916,13.3123322 Z" id="Fill-4" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

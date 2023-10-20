@@ -1,0 +1,93 @@
+{
+  "name": "@openocean.finance/wallet",
+  "version": "1.5.38",
+  "description": "A multi-chain wallets manager",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "node ./build/copy.js && tsc",
+    "buildWeb": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "openocean",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [
+    "multi-chain",
+    "wallets"
+  ],
+  "homepage": "",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/web3-provider-engine": "^14.0.1",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "crypto-browserify": "^3.12.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "ts-loader": "^9.0.2",
+    "typescript": "^4.2.4",
+    "url": "^0.11.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.34.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "@cosmjs/launchpad": "^0.27.1",
+    "@cosmjs/stargate": "^0.28.4",
+    "@gnosis.pm/safe-apps-provider": "^0.11.3",
+    "@gnosis.pm/safe-apps-sdk": "^7.5.0",
+    "@ledgerhq/hw-app-eth": "6.10.0",
+    "@ledgerhq/hw-transport-webusb": "6.27.1",
+    "@ledgerhq/logs": "^6.10.0",
+    "@near-wallet-selector/core": "^7.8.2",
+    "@near-wallet-selector/meteor-wallet": "^7.8.2",
+    "@near-wallet-selector/my-near-wallet": "^7.8.2",
+    "@near-wallet-selector/near-wallet": "^7.8.2",
+    "@near-wallet-selector/sender": "^7.8.2",
+    "@onflow/fcl": "^0.0.71",
+    "@ont-dev/ontology-dapi": "^0.5.7",
+    "@project-serum/sol-wallet-adapter": "0.2.0",
+    "@siddomains/sidjs": "^0.1.22",
+    "@solana/web3.js": "1.31.0",
+    "@terra-money/terra.js": "3.0.8",
+    "@uauth/js": "^2.4.0",
+    "@walletconnect/ethereum-provider": "^2.8.6",
+    "@walletconnect/modal": "^2.6.1",
+    "buffer": "^6.0.3",
+    "fs": "^0.0.1-security",
+    "near-api-js": "^0.44.2",
+    "osmojs": "^13.0.0-rc.7-i-alpha",
+    "path-browserify": "^1.0.1",
+    "starknet": "^4.22.0",
+    "web3": "^1.7.4",
+    "web3-ledgerhq-frame-connector": "^1.1.0",
+    "web3-provider-engine": "^16.0.5"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "browser": true
+    },
+    "extends": [
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-debugger": "off",
+      "no-console": "off",
+      "no-unused-vars": "off"
+    }
+  }
+}

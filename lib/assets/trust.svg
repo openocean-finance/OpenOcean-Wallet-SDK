@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trust</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trust">
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+            <path d="M16.0448185,8 C19.0779448,10.5331488 22.55621,10.3769114 23.55,10.3769114 C23.3326121,24.7835496 21.6762954,21.9267702 16.0448185,25.9664274 C10.4133416,21.9267702 8.7673879,24.7835496 8.55,10.3769114 C9.53342705,10.3769114 13.0116922,10.5331488 16.0448185,8 Z" id="Path" stroke="#3375BB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

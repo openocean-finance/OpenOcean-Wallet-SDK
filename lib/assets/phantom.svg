@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>phantom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#534BB1" offset="0%"></stop>
+            <stop stop-color="#551BF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9998651%" y1="0%" x2="49.9998651%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.82" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phantom" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="17" cy="17" r="17"></circle>
+            <path d="M29.1702,17.2071 L26.1733,17.2071 C26.1733,11.0997 21.205,6.14893 15.0758,6.14893 C9.02255,6.14893 4.10117,10.9785 3.98072,16.9813 C3.85611,23.1863 9.69824,28.5745 15.9261,28.5745 L16.7095,28.5745 C22.2001,28.5745 29.5592,24.2916 30.709,19.0732 C30.9213,18.1113 30.1588,17.2071 29.1702,17.2071 Z M10.6223,17.4792 C10.6223,18.2959 9.95192,18.9639 9.13229,18.9639 C8.31265,18.9639 7.64231,18.2956 7.64231,17.4792 L7.64231,15.0773 C7.64231,14.2606 8.31265,13.5926 9.13229,13.5926 C9.95192,13.5926 10.6223,14.2606 10.6223,15.0773 L10.6223,17.4792 Z M15.7961,17.4792 C15.7961,18.2959 15.1258,18.9639 14.3062,18.9639 C13.4865,18.9639 12.8162,18.2956 12.8162,17.4792 L12.8162,15.0773 C12.8162,14.2606 13.4868,13.5926 14.3062,13.5926 C15.1258,13.5926 15.7961,14.2606 15.7961,15.0773 L15.7961,17.4792 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
